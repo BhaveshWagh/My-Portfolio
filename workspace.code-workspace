@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": "..\\My portfolio"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\demo"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "Bhavesh_Portfolio_app"
+  }
+}
