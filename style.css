@@ -335,7 +335,9 @@ button[type="submit"]:hover {
   padding: 2rem;
   margin: 2rem 0;
 }
-
+.msg{
+  min-height: 150px;
+}
 /* Contact us css end Here */
 .self-image {
   max-width: 35%;
