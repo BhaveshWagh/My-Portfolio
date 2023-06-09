@@ -218,7 +218,7 @@ input[type="checkbox"] {
 }
 
 .hero .hero-img {
-  max-width: 80%;
+  max-width: 50%;
   width: 550px;
   display: block;
   margin: auto;
